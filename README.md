@@ -14,6 +14,14 @@ The main goals for me as a web developer were to improve my skills in working wi
 - JavaScript logic and methods (filter(), find(), map(), fetch(), async-await, try-catch, json(), JSON.stringify(), etc);
 - CSS modules;
 
+## To view the app in the browser:
+
+Copy and paste the following link to the URL address bar of your browser:
+
+```
+https://sharinlana.github.io/react-redux-httpRequests/
+```
+
 ## To start the app on your machine:
 
 1. Clone the project to your machine by running:
